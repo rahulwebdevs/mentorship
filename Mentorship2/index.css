@@ -1,0 +1,86 @@
+/* p{
+    color: red;
+    border: 1px solid red;
+    padding: 10px 25px 10px 25px;
+    padding: 10px 20px;
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    
+} */
+/* padding - 12 3 6 9
+padding - T Right bottom left */
+/* p{
+    color: red;
+    border: 1px solid red;
+    margin-top: 120px;
+} */
+
+
+
+/* h1{
+    color: red;
+    border: 1px solid red;  
+}
+
+h2{
+    color: green;
+    border: 1px solid teal;
+    
+} */
+
+
+/* .atag:link{
+    color: red;
+    text-decoration: overline;
+}
+.atag:visited{
+    color: rgb(241, 2, 229);
+}
+.atag:hover{
+    color: yellow;
+}
+.atag:active{
+    color: blue;
+} */
+
+
+/* .fifth{
+    color: red;
+}
+.second{
+    color: blue;
+} */
+
+/* ul li:first-child{
+    color: red;
+}
+ul li:last-child{
+    color: rgb(2, 65, 255);
+} */
+/* ul li:nth-child(odd){
+    color: red;
+} */
+
+/* div p:nth-child(2){
+    color: red;
+} */
+/* div .para h1{
+    color: rgb(0, 255, 94);  check 1st
+} */
+
+div{
+    border: 1px solid red;
+}
+
+p{
+    color: red;
+    cursor: zoom-out;
+}
+button{
+    cursor: pointer;
+}
+
+
+
